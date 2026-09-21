@@ -47,11 +47,6 @@ ecommerce-demo/
 - Responsive UI with CSS Grid/Flexbox
 - Multi-page navigation architecture
 
-## 🚀 Live Demo
-
-GitHub Pages:  
-`https://fabricio-devs.github.io/ecommerce-demo/`
-
 ## 🛠️ How to Run Locally
 
 Open with Live Server or any local server:
